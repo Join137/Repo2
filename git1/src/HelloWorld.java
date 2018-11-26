@@ -10,4 +10,9 @@ public class HelloWorld {
         System.out.println("hello");
     }
 
+    public void test() {
+        int i = 0;
+        i = i + 10;
+    }
+
 }
